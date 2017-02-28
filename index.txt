@@ -1,7 +1,4 @@
-My name is Adriana Ryan.
-
-I love tea 
-
-i don’t know what to say 
-
-hello
+hello, my name is Adriana
+this is my first commit
+and I am really excited to learn
+awesome!
